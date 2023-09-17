@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC216-Fall2022
+#  Project P6: Shell Senior
+
+courseName=CMSC216-Fall2022
+semester=202208
+projectNumber=P6
+courseKey=f92946cb9003f40d
+authentication.type=cas
+baseURL=https://submit.cs.umd.edu:443/fall2022
+submitURL=https://submit.cs.umd.edu:443/fall2022/eclipse/SubmitProjectViaEclipse

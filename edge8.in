@@ -1,0 +1,1 @@
+cat edge9.txt | head -3 | tail -2 | head -1
